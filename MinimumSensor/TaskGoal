@@ -1,0 +1,3 @@
+The goal of this task was to evaluate how simple a sensor array would be needed to reach object recognition on the MNIST database to a commercial level accuracy.
+
+According to [this site[(https://ocrsolutions.com/typical-field-acceptance-rate-ocr-accuracy-level/), commercial OCR systems have an accuracy of 75% or higher on manuscripts. Maybe on numbers they do better but we'll keep this number as our benchmark.
