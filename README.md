@@ -13,6 +13,8 @@ The project is divided into 4 tasks.
    
 The directory structure is built around the tasks defined above.
 
+The project log can be consulted in detail on [https://hackaday.io/project/170591-discrete-component-object-recognition].
+
 ## Project tools
 The tools used in thsi project are as follows:
    * Rstudio - This was used for loading the MNIST database, test the sensor array requirements, compare ML models and create a tool to display MNIST dataset with different pixel density.
