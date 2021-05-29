@@ -13,7 +13,7 @@ The project is divided into 4 tasks.
    
 The directory structure is built around the tasks defined above.
 
-The project log can be consulted in detail on [https://hackaday.io/project/170591-discrete-component-object-recognition].
+The project log can be consulted in detail on https://hackaday.io/project/170591-discrete-component-object-recognition.
 
 ## Project tools
 The tools used in thsi project are as follows:
